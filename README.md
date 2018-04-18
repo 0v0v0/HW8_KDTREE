@@ -6,9 +6,9 @@ If you wish to see the details, Uncomment them all.
 
 ## Algorithm ##
 
-###First thing first, this is a recursive method, the looping version was not good enough(and low efficiency).
+###First thing first, this is a recursive method, the looping version was not good enough(and low efficiency). ###
 
-###Be careful about recursion depth, that varies through computers ans systems. 
+###Be careful about recursion depth, that varies through computers ans systems. ###
 
 Before the KD Tree is build, all points are sorted using insert sorting (Wikipedia said that this is the quickest sorting.)
 
