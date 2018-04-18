@@ -32,7 +32,7 @@ This segment is only 16 points, just for illustration of how the KD Tree is done
 
 1024 points: 
 
-![](./assignment_package/kdtree1024.png)
+![](./assignment_package/kd1024.png)
 
 10K points: 
 
